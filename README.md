@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Laura Ocampo!<br><br>I'm a **Data Analyst** with a strong passion for extracting meaningful insights from data and transforming them into actionable strategies. I enjoy solving complex problems through data analysis, and I’m continuously expanding my skills in the field of data science.<br><br>### 🛠️ **Technical Skills**:<br>- **Programming Languages**: Python, SQL<br>- **Data Visualization**: Power BI, Tableau<br>- **Data Analysis & ETL**: Pandas, NumPy, Power Query<br>- **Databases**: SQL Server, MySQL<br>- **Statistics & Reporting**: Descriptive statistics, hypothesis testing, and trend analysis<br><br>### 📍 **Location**:  <br>Colombia (Available for remote work)<br><br>### 🌱 **What I'm working on**:<br>- Expanding my knowledge in **machine learning** and **advanced analytics**.<br>- Participating in **open-source data projects** to improve my coding and collaboration skills.<br><br>### 🔍 **Featured Projects**:<br>1. **M1_Super_Global_Store**:  <br>   *ETL processes and sales analysis to improve operational efficiency.*  <br>   - Tools: SQL, Python, Power BI<br><br>2. **M2_Fast_Food_SQL**:  <br>   *Unified database for "Fast Food" company to optimize decision-making and customer satisfaction.*  <br>   - Tools: SQL Server, Python<br><br>3. **M3_AWC_PowerBI**:  <br>   *Power BI sales report for Adventure Works Cycles to boost profitability through detailed insights.*  <br>   - Tools: Power BI, DAX, SQL<br><br>4. **M4_Biogenesys_Expansion**:  <br>   *Strategic analysis for expanding pharmaceutical labs and vaccination centers in Latin America.*  <br>   - Tools: Python, Power BI, SQL<br><br><br>### 📫 **How to reach me**:<br>- **LinkedIn**: [Your LinkedIn Profile](#)  <br>- **Email**: your-email@example.com  <br><br>Feel free to explore my projects, and if you'd like to collaborate or have any questions, don’t hesitate to get in touch!<br>👋 Hi, I'm Laura Ocampo!<br>I'm a Data Analyst with a passion for extracting meaningful insights from data. My skills include:<br><br>📊 Data Analysis using Python and SQL<br>📈 Visualization with Power BI and Tableau<br>📚 Strong background in statistics<br>🌱 What I'm working on:<br>Expanding my knowledge in machine learning and data science<br>Participating in open-source data projects to improve my coding skills<br>🔍 Featured Projects:<br>Project 1: M1_Super_Global_Store: ETL processes and sales analysis to improve operational efficiency.<br>Project 2: M2_Fast_Food_SQL: Unified database for "Fast Food" to optimize decision-making and customer satisfaction.<br>Project 3: M3_AWC_PowerBI: Power BI sales report for Adventure Works Cycles to boost profitability.<br>Project 4: M4_Biogenesys_Expansion: Strategic analysis for expanding vaccination centers in Latin America.<br>✨ Fun Facts:<br>I love solving puzzles and learning about different cultures 🌍<br>In my free time, you can find me playing strategy games or learning Japanese 🎮📚<br>📫 How to reach me:<br>LinkedIn<br>Feel free to explore my projects, and if you'd like to collaborate, don't hesitate to get in touch!
 
-<!--
-**50Carrot/50Carrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lauraocampocampo/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=50Carrot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=50Carrot&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=50Carrot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=50Carrot&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/50carrot) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
