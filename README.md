@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Laura Ocampo!<br><br>I'm a **Data Analyst** with a passion for extracting meaningful insights from data.<br><br>### 📍 **Location**:  <br>Colombia (Available for remote work)<br><br>### 🌱 **What I'm working on**:<br>- Expanding my knowledge in **machine learning** and **advanced analytics**.<br>- Participating in **open-source data projects** to improve my coding and collaboration skills.<br><br><br>📫Feel free to explore my projects, and if you'd like to collaborate, don't hesitate to get in touch!
+# 👋 Hi, I'm Laura Ocampo!<br><br>I'm a **Data Analyst** with a passion for extracting meaningful insights from data.<br><br>### 📍 **Location**:  <br>Colombia (Available for remote work)<br><br>### 🌱 **What I'm working on**:<br>- Expanding my knowledge in **machine learning** and **advanced analytics**.<br>- Participating in **open-source data projects** to improve my coding and collaboration skills.<br><br>📫Feel free to explore my projects, and if you'd like to collaborate, don't hesitate to get in touch!
 
 
 ## 🌐 Socials:
